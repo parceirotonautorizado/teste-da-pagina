@@ -117,7 +117,7 @@ input[type="range"]::-moz-range-thumb{width:22px;height:22px;border-radius:50%;b
 .card-maquininha.destaque{border:2px solid var(--preto)}
 .tag-destaque{position:absolute;top:-12px;left:50%;transform:translateX(-50%);background:var(--preto);color:var(--verde);font-size:11px;font-weight:700;padding:4px 14px;border-radius:var(--r-pill);letter-spacing:.5px;white-space:nowrap}
 .card-maquininha-imagem-wrapper{display:flex;justify-content:center;padding:16px 0}
-.card-maquininha-imagem{width:140px;height:140px;object-fit:contain}
+.card-maquininha-imagem{width:420px;height:420px;object-fit:contain}
 .card-maquininha-nome{font-size:22px;font-weight:900;letter-spacing:-1px}
 .card-maquininha-desc{font-size:14px;color:var(--cinza-texto);line-height:1.4}
 .card-maquininha-preco{display:flex;flex-direction:column;gap:4px}
